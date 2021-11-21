@@ -1,0 +1,21 @@
+.text-area-container {
+  margin: 10px 10%;
+  padding: 25px 50px;
+  background-color: black !important;
+}
+.text-area-inner-container {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid white;
+  color: white;
+}
+TextField::placeholder {
+  color: white;
+}
+.textfield{
+  color: white;
+}
+
+input {
+  color: white;
+}
